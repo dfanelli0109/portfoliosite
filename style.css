@@ -76,7 +76,7 @@ height: auto;
   float:left;
   text-decoration: none;
   list-style-type: none;
-  width:19%;
+  width:13%;
 text-align: center;
 background-color: #101010;
 color: green;
@@ -87,7 +87,8 @@ font-size: 1.25em;
 }
 
 .navbar li:hover {
-  background-color: white;
+  background-color: green;
+  color: green;
 }
 
 
@@ -99,12 +100,12 @@ li a {
   width: 100%;
 }
 
-.navbar-nav li:hover {
-  background-color: red;
-}
+
+
 
 .contact a {
   color:white;
+
 }
 
 li:hover{
@@ -239,7 +240,7 @@ footer p a:hover {
   padding:15px;
   height: 85vh;
   width: 66.66%;
-  background-color: lightgray;
+  background-color: white;
 }
 
 .col-2-6  {
